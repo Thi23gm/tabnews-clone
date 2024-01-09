@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "Este é um projeto de estudo que visa implementar o site tabnews.com.br como parte do aprendizado em desenvolvimento web.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Thiago Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
